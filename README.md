@@ -68,3 +68,6 @@ python -m streamlit run src/app.py
 Devanshu Kumar
 
 GitHub: https://github.com/phenomenal76
+## 🌐 Live Demo
+
+[Try the Premier League Transfer Fee Predictor](https://premierleaguetransferpredictor-a.streamlit.app/)
